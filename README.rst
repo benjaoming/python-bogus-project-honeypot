@@ -1,6 +1,10 @@
 python-bogus-project-honeypot
 -----------------------------
 
+.. image:: https://badge.fury.io/py/python-bogus-project-honeypot.svg
+        :target: https://pypi.python.org/pypi/python-bogus-project-honeypot
+
+
 This project releases automatically on PyPi... by a bot. It's then downloaded by bots and mirrors.
 
 If you want to be a real jerk, download it.
