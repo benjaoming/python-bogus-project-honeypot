@@ -25,7 +25,7 @@ setup(
     include_package_data=True,
     license="MIT",
     zip_safe=False,
-    keywords='spam, honeypot',
+    keywords='spam honeypot',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
